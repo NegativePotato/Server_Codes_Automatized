@@ -2,4 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-./Recordings
+.git_old
+.DS_Store
+Recordings/
